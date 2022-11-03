@@ -1,6 +1,6 @@
 # title aja
 print("\n\t==============================")
-print("\t==== KALKULATOR SEDERHANA ====")
+print("\t == KALKULATOR KABAGTAKUR ==")
 print("\t==============================\n")
 
 # Proses input nilai/data
